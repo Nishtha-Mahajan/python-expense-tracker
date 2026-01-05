@@ -18,7 +18,7 @@ This is a simple console-based Expense Tracker project built using Python.
 ## How to Run
 1. Install Python on your system
 2. Run the file using:
-   python expense_tracker.py
+   python MiniProject.py
 
 ## Author
 Nishtha Mahajan
